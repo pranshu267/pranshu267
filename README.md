@@ -1,7 +1,7 @@
 # Hey there! I'm Pranshu Goyal
 
 <p align="center"> 
-<a href="[https://www.linkedin.com/in/pranshu-goyal-436814217]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Pranshu Goyal LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/pranshu-goyal-436814217" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Pranshu Goyal LinkedIn" /></a>
 <a href="mailto:pg2592@nyu.edu" target="blank"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" alt="Pranshu Goyal Email" /></a>
 </p>
 
