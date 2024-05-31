@@ -1,17 +1,17 @@
 # Hey there! 👋 I'm Pranshu Goyal
 
-Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU, specializing in Machine Learning. When I'm not buried in code or textbooks, you might find me playing soccer, gaming, or reading about the time-space continuum.
+Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU, specializing in Machine Learning. When I'm not buried in code, you might find me lifting weights, gaming, or reading about the time-space continuum.
 
 ## About Me
 
-- **🔭 Exploring:** Machine Learning, Big Data, Deep Learning, NLP, AI
+- **🔭 I'm diving into the world of Machine Learning, hoping my code learns faster than I did in my first year of college!
 - **🎓 Education:** 
   - M.S in Computer Science @ NYU (Recipient of Merit-based scholarship)
   - B.E in Computer Engineering @ Thapar Institute of Engineering and Technology, India
 - **💼 Experience:** 
-  - **Software Developer @ ION GROUP:** Built and enhanced trading systems.
-  - **Machine Learning Engineer Intern @ Paytm:** Boosted facial liveness detection and developed a real-time facial recognition system.
-  - **Data Analyst Intern @ OnActuate:** Created PowerBI visualizations for data-driven decisions.
+  - **Software Engineer @ ION Trading:** 
+  - **Machine Learning Engineer Intern @ Paytm:** 
+  - **Data Analyst Intern @ OnActuate:** 
 
 ## Projects
 
