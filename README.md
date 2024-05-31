@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
   - M.S in Computer Science @ NYU (Recipient of Merit-based scholarship)
   - B.E in Computer Engineering @ Thapar Institute of Engineering and Technology, India
 - **💼 Experience:** 
-  - **Software Engineer @ ION Trading:** 
-  - **Machine Learning Engineer Intern @ Paytm:** 
-  - **Data Analyst Intern @ OnActuate:** 
+  - **Software Engineer @ ION Trading** 
+  - **Machine Learning Engineer Intern @ Paytm** 
+  - **Data Analyst Intern @ OnActuate** 
 
 ## Technical Skills
 
