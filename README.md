@@ -84,5 +84,5 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
 - **📧 Email:** pg2592@nyu.edu
 - **💼 LinkedIn:** [Pranshu Goyal](https://www.linkedin.com/in/pranshu-goyal-436814217)-->
 
-###Thanks for stopping by! Feel free to check out my projects and reach out if you want to chat about ML, AI, or anything tech-related.
+### Thanks for stopping by! Feel free to check out my projects and reach out if you want to chat about ML, AI, or anything tech-related.
 
