@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
 
 - **🔭** I'm diving into the world of Machine Learning, hoping my code learns faster than I did in my first year of college!
 - **🎓 Education:** 
-  - M.S in Computer Science @ NYU (Recipient of Merit-based scholarship)
+  - M.S in Computer Science @ NYU 
   - B.E in Computer Engineering @ Thapar Institute of Engineering and Technology, India
 - **💼 Experience:** 
   - **Software Engineer @ ION Trading** 
