@@ -1,5 +1,10 @@
 # Hey there! I'm Pranshu Goyal
 
+<p align="center"> 
+<a href="[https://linkedin.com/in/prathamguptaaa](https://www.linkedin.com/in/pranshu-goyal-436814217)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Pranshu Goyal LinkedIn" /></a>
+<a href="mailto:pg2592@nyu.edu" target="blank"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" alt="Pranshu Goyal Email" /></a>
+</p>
+
 Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU, specializing in Machine Learning. When I'm not buried in code, you might find me lifting weights, gaming, or reading about the time-space continuum.
 
 ## About Me
@@ -74,15 +79,10 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
 - **[Real-Time Forex Arbitrage and Price Prediction System](https://github.com/pranshu267/Real-Time-Forex-Arbitrage-Detection-and-Price-Prediction-System):** A forex trading system with Apache Spark, BigQuery, and a Bi-Directional LSTM Model for price prediction.
 - **[Exploring the Role of Cultural Context in Cross-Lingual Transfer Capabilities](https://github.com/sharad5/Cross-Lingual-Transfer-mBERT):** Experiments on cross-lingual transfer for sentiment analysis and hate speech detection across English and Turkish languages. -->
 
-## Publications
-
-- **Fabric Classification and Defect Detection:** Multilevel Deep Learning Model (Springer, Singapore).
-- **Music Genre Classification:** Ensemble Model (Springer, Singapore).
-
-## Let's Connect!
+<!--## Let's Connect!
 
 - **📧 Email:** pg2592@nyu.edu
-- **💼 LinkedIn:** [Pranshu Goyal](https://www.linkedin.com/in/pranshu-goyal-436814217)
+- **💼 LinkedIn:** [Pranshu Goyal](https://www.linkedin.com/in/pranshu-goyal-436814217)-->
 
 Thanks for stopping by! Feel free to check out my projects and reach out if you want to chat about ML, AI, or anything tech-related. 😄
 
