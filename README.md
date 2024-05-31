@@ -67,12 +67,12 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
 </p>
 
 
-## Projects
+<!-- ## Projects
 
 - **[NewsLens](https://github.com/pranshu267/NewsLens):** A Retrieval-Augmented Generation (RAG) model fetching relevant articles and generating concise multi-document summaries with contextual images.
 - **[NYUAssistant](https://github.com/pranshu267/NYUAssistant/tree/main):** An AI-driven query system for the NYU community, utilizing a robust NLP pipeline and interactive web application.
 - **[Real-Time Forex Arbitrage and Price Prediction System](https://github.com/pranshu267/Real-Time-Forex-Arbitrage-Detection-and-Price-Prediction-System):** A forex trading system with Apache Spark, BigQuery, and a Bi-Directional LSTM Model for price prediction.
-- **[Exploring the Role of Cultural Context in Cross-Lingual Transfer Capabilities](https://github.com/sharad5/Cross-Lingual-Transfer-mBERT):** Experiments on cross-lingual transfer for sentiment analysis and hate speech detection across English and Turkish languages.
+- **[Exploring the Role of Cultural Context in Cross-Lingual Transfer Capabilities](https://github.com/sharad5/Cross-Lingual-Transfer-mBERT):** Experiments on cross-lingual transfer for sentiment analysis and hate speech detection across English and Turkish languages. -->
 
 ## Publications
 
