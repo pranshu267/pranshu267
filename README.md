@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
 
 ## About Me
 
-- **🔭** Exploring Machine Learning: teaching algorithms to predict the future while I can barely predict my weekend plans
+- **🔭** Diving into Machine Learning and hoping my models end up smarter than my jokes!
 - **🎓 Education:** 
   - M.S in Computer Science @ NYU 
   - B.E in Computer Engineering @ Thapar Institute of Engineering and Technology, India
