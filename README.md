@@ -65,9 +65,9 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Jenkins-%23D33833.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Slurm-%23283B2B.svg?style=for-the-badge&logo=slurm&logoColor=white" alt="Slurm"/>
+  <!-- <img src="https://img.shields.io/badge/Slurm-%23283B2B.svg?style=for-the-badge&logo=slurm&logoColor=white" alt="Slurm"/> -->
   <img src="https://img.shields.io/badge/EC2-%23232F3E.svg?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/>
-  <img src="https://img.shields.io/badge/Singularity-%237E14CF.svg?style=for-the-badge&logo=singularity&logoColor=white" alt="Singularity"/>
+  <!-- <img src="https://img.shields.io/badge/Singularity-%237E14CF.svg?style=for-the-badge&logo=singularity&logoColor=white" alt="Singularity"/> -->
   <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
 </p>
 
