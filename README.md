@@ -5,15 +5,16 @@
 <a href="mailto:pg2592@nyu.edu" target="blank"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" alt="Pranshu Goyal Email" /></a>
 </p>
 
-Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU, specializing in Machine Learning. When I'm not buried in code, you might find me lifting weights, gaming, or reading about the time-space continuum.
+Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU, specializing in Machine Learning. When I'm not buried in code, you might find me lifting weights, playing FPS, or reading about Astrophysics.
 
 ## About Me
 
 - **🔭** Diving into Machine Learning and hoping my models end up smarter than my jokes!
 - **🎓 Education:** 
-  - M.S in Computer Science @ NYU 
+  - M.S in Computer Science @ New York University, USA
   - B.E in Computer Engineering @ Thapar Institute of Engineering and Technology, India
-- **💼 Experience:** 
+- **💼 Experience:**
+  - **Machine Learning Engineer Intern @ LOCOMeX**
   - **Software Engineer @ ION Trading** 
   - **Machine Learning Engineer Intern @ Paytm** 
   - **Data Analyst Intern @ OnActuate** 
