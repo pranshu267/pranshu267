@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at NYU,
 
 ## Technical Skills
 
-<p class="flex flex-wrap justify-center">
+<p align="center">
   <!-- Machine Learning and AI -->
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
